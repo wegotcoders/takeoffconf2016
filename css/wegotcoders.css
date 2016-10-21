@@ -5,7 +5,7 @@ header {
 }
 
 .logo {
-  background: url('/takeoffconf2016/images/WEGOTCODERS_color.png') no-repeat right top;
+  background: url('/takeoffconf2016/images/WEGOTCODERS_color.jpg') no-repeat right top;
   display: block;
   background-size: contain;
   text-indent: -300%;
@@ -17,7 +17,7 @@ header {
 }
 
 .reveal .logo--takeoff {
-  background: url('/takeoffconf2016/images/takeoffconf/takeoff.png') no-repeat center center;
+  background: url('/takeoffconf2016/images/takeoffconf/takeoff.jpg') no-repeat center center;
   height: 300px;
   display: block;
   background-size: contain;
