@@ -5,7 +5,7 @@ header {
 }
 
 .logo {
-  background: url('/images/WEGOTCODERS_color.png') no-repeat right top;
+  background: url('/takeoffconf2016/images/WEGOTCODERS_color.png') no-repeat right top;
   display: block;
   background-size: contain;
   text-indent: -300%;
@@ -17,7 +17,7 @@ header {
 }
 
 .reveal .logo--takeoff {
-  background: url('/images/takeoffconf/takeoff.png') no-repeat center center;
+  background: url('/takeoffconf2016/images/takeoffconf/takeoff.png') no-repeat center center;
   height: 300px;
   display: block;
   background-size: contain;
@@ -33,11 +33,11 @@ header {
 }
 
 .slide--dark .logo {
-  background-image: url('/images/WEGOTCODERS_t.png');
+  background-image: url('/takeoffconf2016/images/WEGOTCODERS_t.png');
 }
 
 .reveal .logo--main {
-  background: url('/images/WEGOTCODERS_color.jpg') no-repeat right top;
+  background: url('/takeoffconf2016/images/WEGOTCODERS_color.jpg') no-repeat right top;
   background-position: center top;
   font-size: 5em;
 }
